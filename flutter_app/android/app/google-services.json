@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626806497029",
+    "project_id": "diabin-db555",
+    "storage_bucket": "diabin-db555.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626806497029:android:4c382d6e1265ad98cae16c",
+        "android_client_info": {
+          "package_name": "com.example.diabin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtx0SBK_9pVAMcXdHZd3DB3bti_62mbQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
